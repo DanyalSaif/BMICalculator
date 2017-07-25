@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
   android:background="@drawable/back"
-    tools:context="com.techease.danyal.bmicalculator.ThirdActivity">
+    tools:context="com.techease.danyal.bmicalculator.HeightActivity">
 
     <ImageView
         android:layout_width="90dp"
@@ -30,7 +30,7 @@
     <EditText
         android:layout_width="150dp"
         android:layout_height="40dp"
-        android:id="@+id/getage"
+        android:id="@+id/getHeight"
         android:inputType="number"
         android:layout_marginTop="44dp"
         android:layout_below="@+id/imageView5"
@@ -41,9 +41,9 @@
         android:layout_height="30dp"
         android:background="@drawable/edit"
         android:id="@+id/imageView6"
-        android:layout_alignTop="@+id/getage"
-        android:layout_alignRight="@+id/getage"
-        android:layout_alignEnd="@+id/getage" />
+        android:layout_alignTop="@+id/getHeight"
+        android:layout_alignRight="@+id/getHeight"
+        android:layout_alignEnd="@+id/getHeight" />
 
 
 

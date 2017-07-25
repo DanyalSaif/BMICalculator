@@ -17,11 +17,11 @@
                 <action android:name="android.intent.action.SEND" />
             </intent-filter>
         </activity>
-        <activity android:name=".FirstActivity" />
-        <activity android:name=".SecondActivity" />
-        <activity android:name=".ThirdActivity" />
+        <activity android:name=".AgeActivity" />
+        <activity android:name=".WeightActivity" />
+        <activity android:name=".HeightActivity" />
         <activity android:name=".FourthActivity" />
-        <activity android:name=".MainActivity"></activity>
+        <activity android:name=".ResultActivity"></activity>
     </application>
 
 </manifest>

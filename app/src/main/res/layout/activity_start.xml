@@ -28,7 +28,7 @@ android:background="@drawable/back"
     <ImageView
         android:layout_width="200dp"
         android:layout_height="70dp"
-        android:background="@drawable/start"
+        android:background="@drawable/calculate"
         android:layout_above="@+id/imageView3"
         android:layout_alignLeft="@+id/imageView2"
         android:layout_alignStart="@+id/imageView2"

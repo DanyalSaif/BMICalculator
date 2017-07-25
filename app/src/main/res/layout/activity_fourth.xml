@@ -28,9 +28,12 @@ android:background="@drawable/back"
         android:layout_below="@+id/imageView"
         android:layout_centerHorizontal="true" />
 
-    <ImageView
+    <TextView
         android:layout_width="100dp"
         android:layout_height="100dp"
+        android:id="@+id/bmi"
+        android:gravity="center"
+        android:foregroundGravity="center"
         android:background="@drawable/circle"
         android:layout_below="@+id/imageView5"
         android:layout_alignLeft="@+id/imageView3"
